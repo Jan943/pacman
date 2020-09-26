@@ -5,7 +5,7 @@ import './style.css'
 function Header({ score }){
   return (
     <div className="header">
-        <span>SCORE: {score}</span>
+      <span>SCORE: {score}</span>
     </div>
   );
 }

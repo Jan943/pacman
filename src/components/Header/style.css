@@ -1,7 +1,7 @@
 .header {
-    height: 50px; /* used in calculation */
-    background-color: black;
-    color: white;
-    padding-left: 10px;
-    padding-right: 10px;
+  height: 100px; /* used in calculation */
+  background-color: black;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
 }

@@ -8,8 +8,8 @@ function App() {
   const [score, setScore] = useState(0);
   return (
     <div className="App">
-        <Header score={score} />
-        <Board />
+      <Header score={score} />
+      <Board />
     </div>
   );
 }
