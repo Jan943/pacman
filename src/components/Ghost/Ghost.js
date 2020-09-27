@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import Board from '../Board';
+
 
 import { ReactComponent as GhostSvg} from './ghost.svg';
+import './style.css';
 
 class Ghost extends Component {
 
